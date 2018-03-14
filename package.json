@@ -1,0 +1,33 @@
+{
+	"name": "solarized-light-alternate",
+	"displayName": "Solarized Light Alternate",
+	"description": "alternative solarized light theme",
+	"version": "0.0.2",
+	"publisher": "pmsandhu",
+	"engines": {
+		"vscode": "*"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#FDF6E3",
+		"theme": "light"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"id": "Solarized Light Alternate",
+				"label": "Solarized Light Alternate",
+				"uiTheme": "vs",
+				"path": "./themes/solarized_light_alternate.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "a8c75016-171a-4d25-ad9e-c4c34b1b5e00",
+		"publisherId": "7bc0646b-7ea2-4f29-b211-02e9d6b0450a",
+		"publisherDisplayName": "Patrice Sandhu"
+	}
+}

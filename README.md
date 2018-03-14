@@ -1,0 +1,4 @@
+#### solarized-light-alternate theme
+![Alt text](https://hcmztg-ch3301.files.1drv.com/y4m7CfkdaYWhh_sUlAiogZRSZNVG3CVFzRjkjUhRTnE92VK-lwtudYhD_k3B9qAURTNXvrWbQH32MI0tuWfy3mtkcrvQEHRa4pTbwKTmpcPp1jg771ZYS-WZnV-dy13u6_KHxEZzgEVdDacuByXes6torqGASFSbaGVQrYi2k8b5ZXTSFvTk3MpQId3huStzXEBgqeXVMwh0bmlpI5H5WSb8g?width=1113&height=615&cropmode=none)
+
+![Alt text](https://gsmztg-ch3301.files.1drv.com/y4mMoAyHtDAlPNkuLcfUMslTppfGGOTEebEvEO61nliKG2_QmzwI4G10YlnpCCq_MOdmWEUsTAt9izPOt5-QOUjZ-WgJCFsLFyQo_UI61FVSYWN7rTTiSAfyeGZYTJwmbJsYBysxwtflD1F1XRxzKODy5QzoWCKboZ-G1GLoCQZysXn0SRXD38iSFkblhhBHaFVf66Kj2EaOS4EECoaa3HDwA?width=962&height=1037&cropmode=none)
