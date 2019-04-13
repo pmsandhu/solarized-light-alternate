@@ -39,13 +39,14 @@
     },
     {
       "name": "___CONST___",
-      "settings": { "foreground": "#808080", "fontStyle": "bold" },
+      "settings": { "foreground": "#2AA198", "fontStyle": "bold" },
       "scope": [
         "constant.language",
         "constant.character",
         "constant.other",
         "support.constant",
-        "variable.other.constant"
+        "variable.other.constant",
+        "variable.other.readwrite"
       ]
     },
     {
@@ -73,45 +74,47 @@
         "storage.type",
         "support.type",
         "variable.language",
+        "constant.language.null",
         "entity.name.section",
+        "keyword.operator.new",
+        "keyword.operator.cast",
         "string.other.link",
         "string.other.link",
         "support.constant.dom",
-        "keyword.operator.new",
         "support.constant.math",
-        "keyword.operator.cast",
         "support.constant.json",
         "keyword.operator.sizeof",
         "keyword.operator.expression",
-        "support.type.object.module",
         "keyword.operator.or.regexp",
         "keyword.control.anchor.regexp",
         "keyword.operator.logical.python",
+        "support.type.object.module",
         "markup.heading punctuation.definition.heading"
       ]
     },
     {
       "name": "___STORAGE TYPE C++___",
       "settings": { "foreground": "#D33682", "fontStyle": "" },
-      "scope": [ "storage.type.c" ]
+      "scope": ["storage.type.c"]
     },
     {
       "name": "___VARIABLE___",
       "settings": { "foreground": "#268BD2", "fontStyle": "bold" },
       "scope": [
+        "entity.name.type.cpp",
         "variable.other.object.js",
         "variable.other.object.ts",
         "function.support.builtin",
-        "support.class.console",
         "function.support.core",
-        "entity.name.type.cpp",
+        "meta.property-name.css",
+        "support.class.console",
         "meta.require",
         "variable"
       ]
     },
     {
       "name": "___FUNCTION___",
-      "settings": { "foreground": "#2AA198", "fontStyle": "bold" },
+      "settings": { "foreground": "#268BD2", "fontStyle": "bold" },
       "scope": [
         "support.function",
         "entity.name.struct",
@@ -132,7 +135,7 @@
     },
     {
       "name": "___INHERITED CLASS___",
-      "settings": { "foreground": "#2AA198", "fontStyle": "italic" },
+      "settings": { "foreground": "#268BD2", "fontStyle": "italic" },
       "scope": ["entity.other.inherited-class"]
     },
     {
@@ -175,6 +178,7 @@
         "meta.method.declaration entity.name.function",
         "meta.object-literal.key entity.name.function",
         "meta.function-call variable.other.object.property",
+        "meta.function-call entity.name.function",
         "support.type.object.function-call entity name.function"
       ]
     },
@@ -198,11 +202,7 @@
     {
       "name": "___REGEXP___",
       "settings": { "foreground": "#D46C26" },
-      "scope": [
-        "keyword.other",
-        "keyword.other.unit",
-        "variable.interpolation"
-      ]
+      "scope": ["keyword.other", "keyword.other.unit", "variable.interpolation"]
     },
     {
       "name": "___OTHER CHARACTERS___",
@@ -332,10 +332,7 @@
     {
       "name": "___MARKDOWN ITALIC___",
       "settings": { "foreground": "#586E75", "fontStyle": "italic" },
-      "scope": [
-        "markup.italic",
-        "punctuation.definition.italic"
-      ]
+      "scope": ["markup.italic", "punctuation.definition.italic"]
     },
     {
       "name": "___MARKDOWN LINK URL___",

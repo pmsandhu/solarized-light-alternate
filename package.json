@@ -2,7 +2,7 @@
 	"name": "solarized-light-alternate",
 	"displayName": "Solarized Light Alternate",
 	"description": "alternative solarized light theme",
-	"version": "0.0.2",
+	"version": "0.1.0",
 	"publisher": "pmsandhu",
 	"engines": {
 		"vscode": "*"
@@ -25,13 +25,14 @@
 			}
 		]
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/pmsandhu/solarized-light-alternate.git"
+	},
 	"__metadata": {
 		"id": "a8c75016-171a-4d25-ad9e-c4c34b1b5e00",
 		"publisherId": "7bc0646b-7ea2-4f29-b211-02e9d6b0450a",
 		"publisherDisplayName": "Patrice Sandhu"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/pmsandhu/solarized-light-alternate.git"
 	}
 }
+
