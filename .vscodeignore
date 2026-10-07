@@ -1,0 +1,9 @@
+.vscode/**
+.idea/**
+.git/**
+.gitignore
+.vsixmanifest
+vsc-extension-quickstart.md
+*.vsix
+*.log
+*.error

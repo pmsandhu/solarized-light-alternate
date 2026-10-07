@@ -2,8 +2,9 @@
 	"name": "solarized-light-alternate",
 	"displayName": "Solarized Light Alternate",
 	"description": "alternative solarized light theme",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "pmsandhu",
+	"license": "MIT",
 	"engines": {
 		"vscode": "*"
 	},
@@ -35,4 +36,3 @@
 		"publisherDisplayName": "Patrice Sandhu"
 	}
 }
-

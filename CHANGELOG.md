@@ -13,3 +13,8 @@ All notable changes to the "solarized-light-alternate" extension will be documen
   - change  debug sidebar  pane colors
 
 
+
+10/7 [1.0.1] activity bar and token color updates
+  - activity bar uses a light grey background with a purple active border and highlight
+  - constants (variable.other.constant) shown in green again instead of grey
+  - added screenshots to README
